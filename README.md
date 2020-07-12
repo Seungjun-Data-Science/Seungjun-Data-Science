@@ -15,8 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Josh is a senior (Expected Graduation: May 2020) majoring in Mathematics and minoring in Computer Science and Chinese at Vassar College, a prestigious liberal arts college in Poughkeepsie, NY.
+Josh Kim (김승준)
+Data Scientist || Musician (Vocal, Percussion)
 
-As an aspiring data scientist and musician, he loves diving into data, analyzing it, and taking a hybrid approach of using both qualitative and quantitative methods to extract useful insights. He firmly believes that such insights should ultimately used to benefit society and communities in the form of better products or services, improved public policy etc. 
+Data Scientist from South Korea. Acquired Bachelor of Arts (B.A.) in 2020 from Vassar College (Poughkeepsie, New York) in Mathematics and minors in Computer Science and Chinese. Received Departmental Honors in Mathematics.
 
-His other interests include playing the drums, singing, making music / beats, cooking Asian food, watching Korean dramas / movies and body building. He also runs a Youtube music channel where he uploads his song covers, drumming and music recommendation videos.
+Tool-kits include Python, R, SQL (Google BigQuery), Tableau for data analysis. Have basic knowledge with Java, JavaScript and STATA. Experience with Machine Learning, Deep Learning, NLP and Time Series Analysis through various data science competitions and internships.
+
+Passionate about making data-driven decisions through advanced analytics, making music, singing, playing drums, working out and loving your neighbors everyday to make God and Jesus Christ proud.
+
+Website [ https://juny12264.wixsite.com/seungjun-josh-kim ]
+
+Github [ https://github.com/Seungjun-Data-Science ]
+
+Kaggle [ https://www.kaggle.com/juminator ]
+
+Youtube [ https://www.youtube.com/user/juny1226 ]
+
+SoundCloud [ https://soundcloud.com/seungjun-juny-kim/ ] 
