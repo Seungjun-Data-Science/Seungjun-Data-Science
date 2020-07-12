@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Josh is a senior (Expected Graduation: May 2020) majoring in Mathematics and minoring in Computer Science and Chinese at Vassar College, a prestigious liberal arts college in Poughkeepsie, NY.
+
+As an aspiring data scientist and musician, he loves diving into data, analyzing it, and taking a hybrid approach of using both qualitative and quantitative methods to extract useful insights. He firmly believes that such insights should ultimately used to benefit society and communities in the form of better products or services, improved public policy etc. 
+
+His other interests include playing the drums, singing, making music / beats, cooking Asian food, watching Korean dramas / movies and body building. He also runs a Youtube music channel where he uploads his song covers, drumming and music recommendation videos.
