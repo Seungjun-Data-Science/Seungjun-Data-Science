@@ -24,7 +24,7 @@ Tool-kits include Python, R, SQL (Google BigQuery), Tableau for data analysis. H
 
 Passionate about making data-driven decisions through advanced analytics, making music, singing, playing drums, working out and loving your neighbors everyday to make God and Jesus Christ proud.
 
-Website [ https://juny12264.wixsite.com/seungjun-josh-kim ]
+Website [ Seungjun-Data-Science.github.io ]
 
 Github [ https://github.com/Seungjun-Data-Science ]
 
