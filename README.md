@@ -24,12 +24,14 @@ Tool-kits include Python, R, SQL (Google BigQuery), Tableau for data analysis. H
 
 Passionate about making data-driven decisions through advanced analytics, making music, singing, playing drums, working out and loving your neighbors everyday to make God and Jesus Christ proud.
 
-Website [ Seungjun-Data-Science.github.io ]
+Website [ seungjun-data-science.github.io ]
 
 Github [ https://github.com/Seungjun-Data-Science ]
 
 Kaggle [ https://www.kaggle.com/juminator ]
 
-Youtube [ https://www.youtube.com/user/juny1226 ]
+Youtube [ https://www.youtube.com/channel/UCDBi2xuCCF4qNWCWfyIBUlQ ]
+
+Spotify (Stream my Music >.<) [ https://open.spotify.com/artist/5ZHVsrpwCO8LOcv3JXXfU9 ] 
 
 SoundCloud [ https://soundcloud.com/seungjun-juny-kim/ ] 
