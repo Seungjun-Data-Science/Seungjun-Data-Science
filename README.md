@@ -16,22 +16,25 @@ Here are some ideas to get you started:
 -->
 
 Josh Kim (김승준)
-Data Scientist || Musician (Vocal, Percussion)
+Data Scientist turned into UX Researcher || Musician (Vocal, Percussion)
 
-Data Scientist from South Korea. Acquired Bachelor of Arts (B.A.) in 2020 from Vassar College (Poughkeepsie, New York) in Mathematics and minors in Computer Science and Chinese. Received Departmental Honors in Mathematics.
+I am a UX Researcher (turned from Data Scientist) and 2nd Year PhD Student in Informatics at UC Irvine. I am a mixed-methods researcher passionate about helping with data-driven decision making reinforced by qualitative insights (e.g. interviews, focus groups, observations) for the purpose of improving user experience of products or services particularly in the realm of public health for marginalized populations.
 
-Tool-kits include Python, R, SQL (Google BigQuery), Tableau for data analysis. Have basic knowledge with Java, JavaScript and STATA. Experience with Machine Learning, Deep Learning, NLP and Time Series Analysis through various data science competitions and internships.
+- Data Tools: Python, STATA, R, Git, Docker, Kubernotes, Tableau, PowerBI, Jupyterlab, MS PowerAutomate
+- UX Tools: JavaScript, InVision, Figma, Jamboard, HTML, CSS, Qualtrics, MS & Google Forms, 
+Knowledge: ML, DL, NLP, Generative AI, Chatbots, User Interviews, Focus Groups, Prototyping, Usability Testing, Project Management, User Segmentation, User Needs Analysis, A/B Testing, Survey, Diary Study, Anomaly Detection in user behavior, Persona Creation, Design Thinking, UI & Affordance & Accessibility, Insight Synthesis
 
-Passionate about making data-driven decisions through advanced analytics, making music, singing, playing drums, working out and loving your neighbors everyday to make God and Jesus Christ proud.
+I have worked in both industry and academia across various fields from Human Resources (HR), music technology to criminal labor economics and public health which enabled me to become good at adapting to change, presenting interdisciplinary solutions to questions, and bringing people with different ideas and backgrounds together to work towards a common problem.
 
-Website [ seungjun-data-science.github.io ]
+I graduated with Departmental Honors in Math and CS from Vassar College and worked as a research data engineer for 2 years at the Institute for Social Research, University of Michigan. Previously, I've interned at Spotify as a Data Science Intern, focusing on user segmentation, user needs analysis, and anomaly detection in user behavior.
 
-Github [ https://github.com/Seungjun-Data-Science ]
+In terms of my work and research interests, I am broadly interested in the following topics:
+• Ethics, Bias, Transparency, Accountability, and Fairness (FAT) of AI systems (e.g. chatbots) in regards to their relationship and interaction with under-served populations (e.g. immigrant families). 
+• Improving the design and algorithms of NLP and AI powered chatbots to improve health of under-served populations (e.g. immigrant families).
+• Preemptive detection of disease spread, gun violence, drug overdose/addiction using open source data such as social media feeds.
 
-Kaggle [ https://www.kaggle.com/juminator ]
-
-Youtube [ https://www.youtube.com/channel/UCDBi2xuCCF4qNWCWfyIBUlQ ]
-
-Spotify (Stream my Music >.<) [ https://open.spotify.com/artist/5ZHVsrpwCO8LOcv3JXXfU9 ] 
-
-SoundCloud [ https://soundcloud.com/seungjun-juny-kim/ ] 
+Outside of my work, I live as an Amateur Musician. I sing, play the drums, and make music as my hobby and so check my singles and covers on Youtube!)
+• Website [ https://seungjun-data-science.github.io/ ]
+• Github [ https://github.com/Seungjun-Data-Science ] 
+• Kaggle [ https://www.kaggle.com/juminator ]
+• Youtube [ https://www.youtube.com/user/juny1226 ]
